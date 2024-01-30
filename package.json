@@ -1,5 +1,5 @@
 {
-  "name": "css",
+  "name": "@smithc/css",
   "version": "3.0.0",
   "description": "CSS parser / stringifier",
   "main": "index",
@@ -27,7 +27,7 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/reworkcss/css.git"
+    "url": "https://github.com/smithc/css.git"
   },
   "keywords": [
     "css",
